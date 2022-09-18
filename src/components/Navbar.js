@@ -37,7 +37,7 @@ const Navbar = () => {
               </li>
               <li class="nav-item mx-3 pb-2">
                 <NavLink class="nav-link " style={colorblu} to='Aboutus'>
-                  About us
+                  About
                 </NavLink>
               </li>
               <li class="nav-item mx-3 pb-2">
