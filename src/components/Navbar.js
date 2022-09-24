@@ -46,7 +46,7 @@ const Navbar = () => {
                 </NavLink>
               </li>
               <li class="nav-item mx-3 pb-2">
-               <NavLink class="nav-link" style={colorblu} to='/'>
+               <NavLink class="nav-link" style={colorblu} to='Curriculum'>
                   Curriculum
                 </NavLink>
               </li>
@@ -56,7 +56,7 @@ const Navbar = () => {
                 </NavLink>
               </li>
               <li class="nav-item mx-3 pb-2">
-               <NavLink class="nav-link" style={colorblu} to='/'>
+               <NavLink class="nav-link" style={colorblu} to='Career'>
                   Career
                 </NavLink>
               </li>
@@ -66,7 +66,7 @@ const Navbar = () => {
                 </NavLink>
               </li>
               <li class="nav-item mx-3 pb-2">
-               <NavLink class="nav-link" style={colorblu} to='/'>
+               <NavLink class="nav-link" style={colorblu} to='Contact'>
                   Contact
                 </NavLink>
               </li>

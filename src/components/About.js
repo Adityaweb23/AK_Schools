@@ -22,7 +22,7 @@ const About = () => {
 
           <div class="row align-items-center">
             <div
-              class="col-lg-6 col-md-6 order-2 order-md-1 mt-sm-0 opt-sm-0"
+              class="col-lg-6 col-md-6 "
               data-aos="zoom-in-up"
               data-aos-duration="1000"
             >
@@ -42,7 +42,7 @@ const About = () => {
             </div>
 
             <div
-              class="col-lg-6 col-md-6 col-12 order-1 order-md-2"
+              class="col-lg-6 col-md-6 col-12"
               data-aos="zoom-out-up"
               data-aos-duration="1000"
             >
@@ -133,7 +133,7 @@ const About = () => {
             <div
               class="col-lg-6 col-md-6 col-12 order-1 order-md-2"
               data-aos="zoom-out-up"
-              data-aos-duration="1000"
+              data-aos-duration="2000"
             >
               <div class="section_title ml-lg-5">
                 <br />
